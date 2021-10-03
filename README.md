@@ -2,7 +2,7 @@
 
 A powerful chatting application which supports commands, nicknames, rooms, and is simplistic in design.
 
-The hosted server can be found [here](https://chat.hyperjs.ml/)
+The hosted server can be found [here](https://LowChat.justrat.repl.co/github)
 
 # Commands
 ## Client:
