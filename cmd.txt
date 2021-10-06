@@ -11,3 +11,4 @@
 /deop [user]
 /mute [user]
 /unmute [user]
+/afk (doesn't work yet)

@@ -149,6 +149,11 @@ io.on('connection', (socket) => {
 				let selectedSocket;
 				let rooms;
 				switch (message.split(' ')[0]) {
+          /*
+          case '/afk':
+           socket.emit('message', name: 'server', message:``)
+          break;
+          */
 					case '/whois':
 						selectedSocket = query({
 							name: message.split(' ')[1],
